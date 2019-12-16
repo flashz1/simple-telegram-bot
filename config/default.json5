@@ -1,0 +1,11 @@
+{
+    token: "YOUR_TELEGRAM_BOT_TOKEN",
+    openWeatherMap: {
+        url: "http://api.openweathermap.org/data/2.5/forecast",
+        apiKey: "YOUR_API_KEY",
+    },
+    currconv: {
+        url: "https://free.currconv.com/api/v7/convert",
+        apiKey: "YOUR_API_KEY",
+    }
+}

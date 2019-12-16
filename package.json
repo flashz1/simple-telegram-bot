@@ -1,0 +1,17 @@
+{
+  "name": "useful-mdtelegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.2.4",
+    "node-telegram-bot-api": "^0.40.0",
+    "request": "^2.88.0"
+  }
+}
